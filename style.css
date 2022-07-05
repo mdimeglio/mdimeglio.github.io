@@ -1,3 +1,23 @@
+/* https://coolors.co/ff6700-f5f5f5-cccccc-0d1821-002d8f */
+:root {
+    --safety-orange-blaze-orange: #ff6700ff;
+    --cultured: #f5f5f5ff;
+    --light-gray: #ccccccff;
+    --rich-black-fogra-29: #0d1821ff;
+    --resolution-blue: #002d8fff;
+    --ultramarine-blue: #1f66ffff;
+    --egyptian-blue: #0034a3ff;
+    --ed-university-blue: rgb(4,30,66);
+    --ed-blue: rgb(0,114,136);
+    --ed-bright-blue: rgb(0,196,223);
+    --ed-light-blue: rgb(194,211,223);
+    --ed-university-red: rgb(193,0,67);
+    /* --bs-font-sans-serif: 'Roboto', sans-serif;
+    --bs-font-serif: 'Roboto Slab', serif; */
+    /* --bs-font-sans-serif: 'Lato', sans-serif;
+    --bs-font-serif: 'Arvo', serif; */
+}
+
 /* To scroll to correct postions. Must be navbar height (56px) + data-bs-offset (10px)*/
 .scroll-anchor {
     padding-top: 66px;
@@ -13,8 +33,21 @@
     z-index: 0;
 }
 
+.profile-image {
+    position:absolute;
+    top: 100%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    max-height: 80%;
+    z-index: 0;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+
 .header-overlay {
     position: relative;
+    top: -35px;
     z-index: 1;
 }
 
@@ -22,51 +55,40 @@
     padding-left: 0px;
 }
 
-.invited-speaker.collapsed {
-    background-color: #d1e7dd;
+.bg-dark {
+    background-color: var(--ed-university-blue)!important;
 }
 
-.invited-speaker:not(.collapsed) {
-    background-color: #a3cfbb;
-    color: #000000;
+a {
+    color: var(--ed-bright-blue);
 }
 
-.invited-speaker:hover {
-    background-color: #75b798;
+a:hover {
+    color: var(--ed-blue);
 }
 
-.speaker.collapsed {
-    background-color: #f8f9fa;
+/* h2,h3 {
+    font-family: var(--bs-font-serif);
 }
 
-.speaker:not(.collapsed) {
-    background-color: #e9ecef;
-    color: #000000;
+b {
+    font-family: var(--bs-font-serif);
+} */
+
+/* body {
+    font-weight: 300;
+} */
+
+.bg-light {
+    background-color: var(--cultured)!important;
 }
 
-.speaker:hover {
-    background-color: #dee2e6;
+.feature-text {
+    font-family: 'Pacifico', cursive;
+    font-size: calc(1.75rem + 1.5vw);
 }
 
-
-.activity.collapsed {
-    background-color: #fff3cd;
-}
-
-.activity:not(.collapsed) {
-    background-color: #ffe69c;
-    color: #000000;
-}
-
-.activity:hover {
-    background-color: #ffda6a;
-}
-
-
-.break.collapsed {
-    background-color: #cfe2ff;
-}
-
-.break.accordion-button::after {
-    opacity: 0;
+.banner-text {
+    text-shadow: 0px 0px 10px white;
+    color: var(--ed-university-blue);
 }
