@@ -35,10 +35,10 @@
 
 .profile-image {
     position:absolute;
-    top: 100%;
+    top: 0%;
     left: 50%;
     transform:translate(-50%,-50%);
-    max-height: 80%;
+    height: calc(150px + 10vw);
     z-index: 0;
     object-fit: cover;
     border-radius: 50%;
@@ -47,8 +47,11 @@
 
 .header-overlay {
     position: relative;
-    top: -35px;
     z-index: 1;
+}
+
+.vertical-padding {
+    padding-bottom: calc(60px + 4vw);
 }
 
 .container-fluid {
