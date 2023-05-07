@@ -1,1 +1,1 @@
-To run locally, run `python -m SimpleHTTPServer` or `python3 -m http.server` in the root directory of this project and then go to `localhost:8000/`
+To run locally, run `python3 -m http.server` in the root directory of this project and then go to `localhost:8000/`
