@@ -1,0 +1,614 @@
+{
+  "publications": [
+    {
+      "title": "Dagger categories and the complex numbers: Axioms for the category of finite-dimensional Hilbert spaces and linear contractions",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "venue": "Applied Categorical Structures, 2025.",
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1007/s10485-025-09803-5"
+        },
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2401.06584"
+        }
+      ]
+    },
+    {
+      "title": "Universal Properties of Lens Proxy Pullbacks",
+      "authors": [],
+      "venue": "Applied Category Theory 2022.",
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.4204/EPTCS.380.23"
+        },
+        {
+          "type": "GitHub",
+          "url": "papers/Universal_properties_of_asymmetric_lens_proxy_pullbacks.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/0bk3W4y70Fs?t=5470"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/ACT2022-Universality_of_Asymmetric_Lens_Proxy_Pullbacks-Slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "The category of asymmetric lenses and its proxy pullbacks",
+      "authors": [],
+      "venue": "Master of Research thesis, Macquarie University, 2021.",
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.25949/20236449.v1"
+        },
+        {
+          "type": "GitHub",
+          "url": "papers/The_category_of_asymmetric_lenses_and_its_proxy_pullbacks.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Coequalisers under the lens",
+      "authors": [],
+      "venue": "Applied Category Theory 2021.",
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.4204/EPTCS.372.11"
+        },
+        {
+          "type": "GitHub",
+          "url": "papers/Coequalisers_under_the_lens.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/diASxDvWfdk?t=2544"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/ACT2021-Coequalisers_under_the_lens-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Chebotarev's density theorem",
+      "authors": [],
+      "venue": "Honours thesis, UNSW Sydney, 2019.",
+      "links": [
+        {
+          "type": "GitHub",
+          "url": "papers/Chebotarevs_density_theorem.pdf"
+        }
+      ]
+    }
+  ],
+  "preprints": [
+    {
+      "title": "Dagger categories of relations: the equivalence of dilatory dagger categories and epi-regular independence categories",
+      "authors": [
+        "Chris Heunen",
+        "Jean-Simon Pacaud Lemay",
+        "Paolo Perrone",
+        "Dario Stein"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2508.01146"
+        }
+      ]
+    },
+    {
+      "title": "M*-categories: Where limits in analysis and category theory meet",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2505.17432"
+        }
+      ]
+    },
+    {
+      "title": "R*-categories: The Hilbert-space analogue of abelian categories",
+      "authors": [],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2312.02883"
+        }
+      ]
+    },
+    {
+      "title": "An introduction to enriched cofunctors",
+      "authors": [
+        "Bryce Clarke"
+      ],
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "http://arxiv.org/abs/2209.01144"
+        },
+        {
+          "type": "GitHub",
+          "url": "papers/An_introduction_to_enriched_cofunctors.pdf"
+        }
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "title": "Dagger Categories of Relations",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Australian Category Seminar",
+          "date": "February 2025"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://centre-of-australian-category-theory.github.io/seminar/talks/1844"
+        },
+        {
+          "type": "Slides",
+          "url": "talks/AusCat-Dilators.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Categorical Hilbert Theory",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "QuaCS Seminar",
+          "date": "February 2025"
+        }
+      ],
+      "links": [
+        {
+          "type": "Slides",
+          "url": "talks/QUACS-Categorical-Hilbert.pdf"
+        }
+      ]
+    },
+    {
+      "title": "M*-categories",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Australian Category Seminar",
+          "date": "January 2025"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://centre-of-australian-category-theory.github.io/seminar/talks/1840"
+        },
+        {
+          "type": "Slides",
+          "url": "talks/AusCat-M-categories.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Minimal dilations categorically",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "ItaCa Fest and Edinburgh Category Theory Seminar",
+          "date": "September 2024"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/ItaCa2024-Minimal_Dilations_Categorically.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/uHEkZWVGjeY?feature=shared"
+        }
+      ]
+    },
+    {
+      "title": "Abelian groups are to abelian categories as Hilbert spaces are to what?",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "UCLouvain-ULB-VUB Category Theory Seminar",
+          "date": "April 2024"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/UCLouvain-Rational_dagger_categories-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Axioms for the category of finite-dimensional Hilbert spaces and linear contractions",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "events": [
+        {
+          "event_name": "Edinburgh Category Theory Seminar",
+          "date": "February 2024"
+        },
+        {
+          "event_name": "The Oxford Advanced Seminar on Informatic Structures",
+          "date": "February 2024"
+        },
+        {
+          "event_name": "Atlantic Category Theory Seminar",
+          "date": "February 2024"
+        },
+        {
+          "event_name": "Topology Seminar at UL Lafayette",
+          "date": "April 2024"
+        },
+        {
+          "event_name": "Junior Category Theory Seminar at UC Louvain",
+          "date": "April 2024"
+        },
+        {
+          "event_name": "Category Theory",
+          "date": "June 2024"
+        },
+        {
+          "event_name": "Foundational Methods in Computer Science",
+          "date": "July 2024"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/AtCat-FCon.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Enriched Bisimulations",
+      "authors": [
+        "Bryce Clarke"
+      ],
+      "events": [
+        {
+          "event_name": "Proofs and Algorithms seminar",
+          "date": "January 2024"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/Proofs_Algorithms-Enriched_Bisimultation.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Abstract Contractions",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "events": [
+        {
+          "event_name": "Edinburgh Category Theory Seminar",
+          "date": "October 2023"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/LL-Contractions.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Bypassing Solèr’s Theorem: The Key to Axiomatising Dagger Categories of Finite-Dimensional Hilbert Spaces",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "events": [
+        {
+          "event_name": "Applied Category Theory",
+          "date": "August 2023"
+        }
+      ],
+      "links": [
+        {
+          "type": "Extended abstract",
+          "url": "talks/ACT2023-Bypassing_Soler-Abstract.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/ifUpzDTcUfc?si=u5BUMyleeFNavcEh"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/ACT2023-Bypassing_Soler-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Enriched Bisimulations",
+      "authors": [
+        "Bryce Clarke"
+      ],
+      "events": [
+        {
+          "event_name": "Applied Category Theory",
+          "date": "August 2023"
+        }
+      ],
+      "links": [
+        {
+          "type": "Extended abstract",
+          "url": "talks/ACT2023-Enriched_Bisimulations-Abstract.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/2fleLvSUiMk?si=6vX9_Cyr80B4bGwa"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/ACT2023-Enriched_Bisimulations-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Enriched Retrofunctors and Enriched Lenses",
+      "authors": [
+        "Bryce Clarke"
+      ],
+      "events": [
+        {
+          "event_name": "Symposium on Compositional Structures",
+          "date": "April 2023"
+        }
+      ],
+      "links": [
+        {
+          "type": "Video",
+          "url": "https://youtu.be/qhRS9YlPX1k"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/SYCO2023-Enriched_Retrofunctors_and_Lenses.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Limits of Sequences via Colimits of Contractions",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "events": [
+        {
+          "event_name": "Categorical Late Lunch",
+          "date": "April 2023"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/LL-Limits_of_Sequences_via_Colimits_of_Contractions.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Recognising retromorphisms retrospectively",
+      "authors": [
+        "Bryce Clarke"
+      ],
+      "events": [
+        {
+          "event_name": "Virtual Double Categories Workshop",
+          "date": "November 2022"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://bryceclarke.github.io/virtual-double-categories-workshop/#matthew-di-meglio"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/zJL0MlX-uxs"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/VirtualDoubbleCategories2022-Recognising_Retromorphisms_Retrospectively-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Enriched lenses",
+      "authors": [
+        "Bryce Clarke"
+      ],
+      "events": [
+        {
+          "event_name": "Applied Category Theory",
+          "date": "July 2022"
+        }
+      ],
+      "links": [
+        {
+          "type": "Extended abstract",
+          "url": "papers/Enriched_lenses_extended_abstract.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/RSoO46D5ojQ?t=20998"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/ACT2022-Enriched_Lenses-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Universal indexed categories",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Topology, Algebra, and Categories in Logic",
+          "date": "June 2022"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://www.mat.uc.pt/~tacl2022/pdfs/TACL_2022_paper_44.pdf"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/TACL2022-Universal_Indexed-Categories-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Universal indexed categories",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Categorical Late Lunch",
+          "date": "March 2022"
+        }
+      ],
+      "links": [
+        {
+          "type": "Handout",
+          "url": "talks/LL-Universal_indexed_categories.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Proxy pullbacks in the category of lenses",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Australian Category Seminar",
+          "date": "December 2021"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://centre-of-australian-category-theory.github.io/seminar/talks/1678"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/AusCat-Proxy_pullbacks_in_the_category_of_lenses.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Polynomial functors and families parametrised by comonoids",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Category Theory 20→21",
+          "date": "September 2021"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "talks/CT20->21-Polynomial_functors_and_families_parametrised_by_comonoids-Extended_Abstract.pdf"
+        },
+        {
+          "type": "Video",
+          "url": "https://youtu.be/V85nNYl9w2c"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/CT20->21-Polynomial_functors_and_families_parametrised_by_comonoids-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "The category of lenses is regular-ish",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Australian Category Seminar",
+          "date": "August 2021"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://centre-of-australian-category-theory.github.io/seminar/talks/1637"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/AusCat-The_category_of_lenses_is_regularish-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Polynomials in Symmetric Monoidal Categories",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Australian Category Seminar",
+          "date": "January 2021"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://centre-of-australian-category-theory.github.io/seminar/talks/1635"
+        },
+        {
+          "type": "Handout I",
+          "url": "talks/AusCat-Polynomials_in_Symmetric_Monoidal_Categories_Part_I-Handout.pdf"
+        },
+        {
+          "type": "Handout II",
+          "url": "talks/AusCat-Polynomials_in_Symmetric_Monoidal_Categories_Part_II-Handout.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A Data Layout Description Language for Cogent",
+      "authors": [
+        "Zilin Chen",
+        "Liam O’Connor",
+        "Partha Susarla",
+        "Christine Rizkallah",
+        "Gabriele Keller"
+      ],
+      "events": [
+        {
+          "event_name": "Principles of Secure Compilation",
+          "date": "January 2019"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "/talks/PriSC2019-Dargent-Abstract.pdf"
+        },
+        {
+          "type": "Handout",
+          "url": "talks/PriSC2019-Dargent-Handout.pdf"
+        }
+      ]
+    }
+  ]
+}
