@@ -145,6 +145,8 @@ async function fetchWorks() {
     document
         .querySelector('#talks ul')
         .appendChild(talksFragment(works.talks));
+
+    await MathJax.typesetPromise();
 }
 
-fetchWorks()
+fetchWorks();
