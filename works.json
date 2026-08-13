@@ -147,6 +147,22 @@
   ],
   "talks": [
     {
+      "title": "Hilbert \\(*\\)-categories",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Category Theory",
+          "date": "July 2026"
+        }
+      ],
+      "links": [
+        {
+          "type": "Slides",
+          "url": "talks/CT2026-Hilbert-categories.pdf"
+        }
+      ]
+    },
+    {
       "title": "Dagger Categories of Relations",
       "authors": [],
       "events": [
