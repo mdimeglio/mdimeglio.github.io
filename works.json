@@ -1,6 +1,23 @@
 {
   "publications": [
     {
+      "title": "Hilbert \\(*\\)-categories: Where limits in analysis and category theory meet",
+      "authors": [
+        "Chris Heunen"
+      ],
+      "venue": "Journal of Pure and Applied Algebra, 2026.",
+      "links": [
+        {
+          "type": "DOI",
+          "url": "https://doi.org/10.1016/j.jpaa.2026.108394"
+        },
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2505.17432"
+        }
+      ]
+    },
+    {
       "title": "Dagger categories and the complex numbers: Axioms for the category of finite-dimensional Hilbert spaces and linear contractions",
       "authors": [
         "Chris Heunen"
@@ -103,18 +120,6 @@
         {
           "type": "arXiv",
           "url": "https://arxiv.org/abs/2508.01146"
-        }
-      ]
-    },
-    {
-      "title": "Hilbert \\(*\\)-categories: Where limits in analysis and category theory meet",
-      "authors": [
-        "Chris Heunen"
-      ],
-      "links": [
-        {
-          "type": "arXiv",
-          "url": "https://arxiv.org/abs/2505.17432"
         }
       ]
     },
