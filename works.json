@@ -152,6 +152,26 @@
   ],
   "talks": [
     {
+      "title": "Factoring in (the other) pre-Hilbert \\(*\\)-categories",
+      "authors": [],
+      "events": [
+        {
+          "event_name": "Category Theory Octoberfest",
+          "date": "October 2026"
+        }
+      ],
+      "links": [
+        {
+          "type": "Abstract",
+          "url": "https://richardblute.ca/october-novemberfest-titles-and-abstracts/"
+        },
+        {
+          "type": "Slides",
+          "url": "talks/Octoberfest-2026.pdf"
+        }
+      ]
+    },
+    {
       "title": "Hilbert \\(*\\)-categories",
       "authors": [],
       "events": [
@@ -174,6 +194,10 @@
         {
           "event_name": "Australian Category Seminar",
           "date": "February 2025"
+        },
+        {
+          "event_name": "LoCal Seminar",
+          "date": "October 2026"
         }
       ],
       "links": [
@@ -183,7 +207,7 @@
         },
         {
           "type": "Slides",
-          "url": "talks/AusCat-Dilators.pdf"
+          "url": "talks/LoCal-Dagger_categories_of_relations.pdf"
         }
       ]
     },
