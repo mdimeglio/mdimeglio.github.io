@@ -1,6 +1,17 @@
 {
   "publications": [
     {
+      "title": "Pre-Hilbert \\(*\\)-categories: The Hilbert-space analogue of abelian categories",
+      "authors": [],
+      "venue": "To appear in Journal of Pure and Applied Algebra, 2026.",
+      "links": [
+        {
+          "type": "arXiv",
+          "url": "https://arxiv.org/abs/2312.02883"
+        }
+      ]
+    },
+    {
       "title": "Hilbert \\(*\\)-categories: Where limits in analysis and category theory meet",
       "authors": [
         "Chris Heunen"
@@ -120,16 +131,6 @@
         {
           "type": "arXiv",
           "url": "https://arxiv.org/abs/2508.01146"
-        }
-      ]
-    },
-    {
-      "title": "Pre-Hilbert \\(*\\)-categories: The Hilbert-space analogue of abelian categories",
-      "authors": [],
-      "links": [
-        {
-          "type": "arXiv",
-          "url": "https://arxiv.org/abs/2312.02883"
         }
       ]
     },
